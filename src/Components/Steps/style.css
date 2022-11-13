@@ -1,0 +1,22 @@
+.steps {
+    background-color: rgb(8, 174, 246);
+    width: 4rem;
+    height: 3rem;
+    padding: 1rem 1.2rem;
+    margin: 1rem;
+    border: none;
+}
+
+.active {
+    background-color: black;
+    color: white;
+    width: 4rem;
+    height: 3rem;
+}
+
+.steps-value {
+
+
+    margin: 0 2rem 0 30%;
+
+}
